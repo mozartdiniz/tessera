@@ -13,6 +13,11 @@
     <file preprocess="xml-stripblanks">scalable/actions/accessibility-visual-alerts-symbolic.svg</file>
     <file preprocess="xml-stripblanks">scalable/actions/accessibility-zoom-symbolic.svg</file>
     <file preprocess="xml-stripblanks">scalable/actions/color-pick.svg</file>
+    <!-- Tessera's applet icons: Fluent UI System Icons (color), MIT, see ../icons/LICENSE.fluentui-system-icons -->
+    <file preprocess="xml-stripblanks">scalable/actions/tessera-calculator.svg</file>
+    <file preprocess="xml-stripblanks">scalable/actions/tessera-clipboard.svg</file>
+    <file preprocess="xml-stripblanks">scalable/actions/tessera-system.svg</file>
+    <file preprocess="xml-stripblanks">scalable/actions/tessera-translator.svg</file>
     <file preprocess="xml-stripblanks">scalable/actions/carousel-arrow-next-symbolic.svg</file>
     <file preprocess="xml-stripblanks">scalable/actions/carousel-arrow-previous-symbolic.svg</file>
     <file preprocess="xml-stripblanks">scalable/actions/cog-wheel-symbolic.svg</file>

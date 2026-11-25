@@ -18,7 +18,7 @@ class SystemDocklet extends Applet {
 
         this.set_child(this.makeIcon({
             style_class: 'applet-icon',
-            icon_name: 'open-menu-symbolic',
+            icon_name: 'tessera-system',
             icon_size: 32,
         }));
 

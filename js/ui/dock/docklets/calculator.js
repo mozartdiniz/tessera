@@ -205,7 +205,7 @@ class CalculatorDocklet extends Applet {
 
         this.set_child(this.makeIcon({
             style_class: 'applet-icon',
-            icon_name: 'accessories-calculator-symbolic',
+            icon_name: 'tessera-calculator',
             icon_size: 36,
             x_expand: true,
             y_expand: true,

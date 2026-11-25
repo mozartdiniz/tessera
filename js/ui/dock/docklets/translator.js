@@ -32,7 +32,7 @@ class TranslatorDocklet extends Applet {
 
         this.set_child(this.makeIcon({
             style_class: 'applet-icon',
-            icon_name: 'accessories-dictionary-symbolic',
+            icon_name: 'tessera-translator',
             icon_size: 36,
             x_expand: true,
             y_expand: true,

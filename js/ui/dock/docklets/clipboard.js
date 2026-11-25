@@ -47,7 +47,7 @@ class ClipboardDocklet extends Applet {
         });
         box.add_child(this.makeIcon({
             style_class: 'applet-icon clipboard-docklet-icon',
-            icon_name: 'edit-paste-symbolic',
+            icon_name: 'tessera-clipboard',
             icon_size: 36,
             x_expand: true,
             y_expand: true,

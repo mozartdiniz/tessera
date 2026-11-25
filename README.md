@@ -126,3 +126,8 @@ The upstream GNOME Shell README is in
 ## License
 
 GPL-2.0-or-later, as GNOME Shell; see [COPYING](COPYING).
+
+The colour icons of the Translator, Clipboard, Calculator and System applets
+(`data/icons/scalable/actions/tessera-*.svg`) are from Microsoft's
+[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons),
+MIT; see [data/icons/LICENSE.fluentui-system-icons](data/icons/LICENSE.fluentui-system-icons).
